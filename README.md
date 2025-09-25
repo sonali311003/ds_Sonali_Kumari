@@ -51,7 +51,7 @@ ds_Sonali_Kumari/
 ## 📝 Report
 
 The final analysis and insights are documented in:  
-👉 `file:///C:/Users/sonali%20gupta31102003/AppData/Local/Temp/f645e7ef-50fa-4e32-ad4a-533d8dcc1afd_ds_Sonali_Kumari.zip.afd/ds_report.pdf`
+👉 `https://drive.google.com/file/d/1Wq0sKxmVcDrhWFu9REW5_WaemTMRRPfL/view?usp=sharing`
 
 ---
 
